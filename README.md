@@ -13,7 +13,7 @@ Customer_Churn_Prediction/
 ## 📊 Dataset
 
 - The dataset contains customer details and whether they have churned.
-- Source: [Provide dataset link or origin if public]
+- Source: customer_churn_dataset.csv
 
 ## 🛠️ Technologies Used
 
@@ -44,6 +44,10 @@ pip install pandas scikit-learn imbalanced-learn
 Run the model:
 
 python churn_model.py
+
+
+
+
 📞 Results
 Model performance is printed in the terminal.
 
